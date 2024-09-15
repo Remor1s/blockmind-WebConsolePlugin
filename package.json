@@ -1,0 +1,12 @@
+{
+  "name": "blockmind-example",
+  "version": "1.0.0",
+  "dependencies": {
+    "blockmind": "*",
+    "express": "^4.21.0",
+    "mineflayer": "^4.20.1",
+    "sequelize": "^6.37.3",
+    "socket.io": "^4.7.5",
+    "sqlite3": "^5.1.7"
+  }
+}
